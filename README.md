@@ -1,2 +1,2 @@
 # Code Python
-Repositório com meus exercícios de treinamento da linguagem de programação Python concluídos.
+Solução de problemas para treinamento da linguagem de programação Python.
