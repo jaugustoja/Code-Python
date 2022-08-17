@@ -1,2 +1,2 @@
 # Exercícios de Lógica - Python
-Exercícios de Lógica de Programação, desenvolvidos utilizando Python.
+Exercícios básicos de Lógica de Programação, desenvolvidos utilizando Python.
